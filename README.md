@@ -1,7 +1,3 @@
-Certainly! Here’s a detailed README description for a Hospital Management System built with Laravel:
-
----
-
 # Hospital Management System
 
 ## Overview
@@ -21,13 +17,13 @@ The **Hospital Management System** is a robust web application developed using t
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/SimonMunyiri/Hospital-Management-System.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```sh
-    cd your-repository
+    cd Hospital-Management-System
     ```
 
 3. **Install Dependencies:**
